@@ -1,0 +1,43 @@
+
+.container
+{
+    display: flex;
+    background-color: aqua;
+    border: 32px solid purple;
+    padding: 55px;
+    margin-top:  67px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+img
+{
+    border: 10px;
+    padding: 5px;
+    width: 310px;
+}
+
+
+
+
+
+.inner {
+    background-color: aquamarine;
+    margin: 20px;
+    padding:20px;
+}
+
+.container {
+
+    display: flex;
+}
+
+
